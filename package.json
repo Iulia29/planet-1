@@ -1,0 +1,21 @@
+{
+  "name": "cosmic",
+  "version": "1.0.0",
+  "description": "Cosmic CV Project",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "three": "^0.180.0",
+    "gsap": "^3.13.0"
+  },
+  "devDependencies": {
+    "vite": "^4.4.9"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
